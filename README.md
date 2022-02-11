@@ -1,5 +1,5 @@
 
-# Hi, I'm Mathews Vianna.
+# Hi, I'm Mathews.
 
 ### About me
 I started in the programming world in 2021 as a flutter developer. I noticed that I liked this area and so I am studying new technologies and new content in general.
