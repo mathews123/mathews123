@@ -2,7 +2,7 @@
 # Hi, I'm Mathews.
 
 ### About me
-I started in the programming world in 2021 as a flutter developer. I noticed that I liked this area and so I am studying new technologies and new content in general.
+Pentester and Data forensics.
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/mathews123?tab=repositories)](https://github.com/mathews123?tab=repositories)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mathews-pinheiro-21bb23210/)](https://www.linkedin.com/in/mathews-pinheiro-21bb23210/)
